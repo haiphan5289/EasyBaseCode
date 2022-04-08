@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |spec|
-  spec.name         = "easybasecode"
+  spec.name         = "EasyBaseCodes"
   spec.version      = "1.0.0"
   spec.summary      = "This framework have the base code for all projects."
   spec.description  = "I hope This Framework will you to code easy, It take time less than"
