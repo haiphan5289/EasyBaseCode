@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		93514F082826ADA3000C1FBE /* SKProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93514F072826ADA3000C1FBE /* SKProductModel.swift */; };
 		93AF2A7B2800171900CE69FD /* UITextViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AF2A572800171700CE69FD /* UITextViewExtensions.swift */; };
 		93AF2A7C2800171900CE69FD /* UINavigationControllerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AF2A582800171700CE69FD /* UINavigationControllerExtensions.swift */; };
 		93AF2A7D2800171900CE69FD /* UILayoutPriorityExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AF2A592800171700CE69FD /* UILayoutPriorityExtensions.swift */; };
@@ -65,6 +66,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		93514F072826ADA3000C1FBE /* SKProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SKProductModel.swift; sourceTree = "<group>"; };
 		93AF2A572800171700CE69FD /* UITextViewExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITextViewExtensions.swift; sourceTree = "<group>"; };
 		93AF2A582800171700CE69FD /* UINavigationControllerExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UINavigationControllerExtensions.swift; sourceTree = "<group>"; };
 		93AF2A592800171700CE69FD /* UILayoutPriorityExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILayoutPriorityExtensions.swift; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 				93AF2AC528001A0B00CE69FD /* StringExtension.swift */,
 				93AF2ACB28001A0B00CE69FD /* LabelExtension.swift */,
 				93AF2ACC28001A0B00CE69FD /* DateExtension.swift */,
+				93514F072826ADA3000C1FBE /* SKProductModel.swift */,
 			);
 			path = Library;
 			sourceTree = "<group>";
@@ -361,6 +364,7 @@
 				93AF2ADA28001A0B00CE69FD /* UIColor+Extensions.swift in Sources */,
 				93AF2A832800171900CE69FD /* UIRefreshControlExtensions.swift in Sources */,
 				93AF2AD828001A0B00CE69FD /* Collection+Extension.swift in Sources */,
+				93514F082826ADA3000C1FBE /* SKProductModel.swift in Sources */,
 				93AF2A9B2800171900CE69FD /* UITabBarExtensions.swift in Sources */,
 				93AF2A882800171900CE69FD /* UIImageViewExtensions.swift in Sources */,
 				93AF2A922800171900CE69FD /* UIViewExtensions.swift in Sources */,
