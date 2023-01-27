@@ -66,6 +66,7 @@
 		93907E1028C496C50018C09C /* ViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93907DFA28C496C50018C09C /* ViewExtension.swift */; };
 		93907E1128C496C50018C09C /* UILableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93907DFB28C496C50018C09C /* UILableExtension.swift */; };
 		93AF2B0228001C5800CE69FD /* KeyboardInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AF2B0128001C5800CE69FD /* KeyboardInfo.swift */; };
+		93C2C13429840920007130AC /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C2C13329840920007130AC /* Extension.swift */; };
 		93DE8C5827FEC8D6003C60BA /* BaseCodeEasy.h in Headers */ = {isa = PBXBuildFile; fileRef = 93DE8C5627FEC8D6003C60BA /* BaseCodeEasy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -129,6 +130,7 @@
 		93907DFA28C496C50018C09C /* ViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewExtension.swift; sourceTree = "<group>"; };
 		93907DFB28C496C50018C09C /* UILableExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILableExtension.swift; sourceTree = "<group>"; };
 		93AF2B0128001C5800CE69FD /* KeyboardInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardInfo.swift; sourceTree = "<group>"; };
+		93C2C13329840920007130AC /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 		93DE8C5327FEC8D6003C60BA /* BaseCodeEasy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BaseCodeEasy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		93DE8C5627FEC8D6003C60BA /* BaseCodeEasy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseCodeEasy.h; sourceTree = "<group>"; };
 		93DE8C5727FEC8D6003C60BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 				93907D9F28C4968A0018C09C /* CALayer+Extension.swift */,
 				93907D9E28C4968A0018C09C /* Collection+Safe.swift */,
 				93907DA228C496900018C09C /* InAppPurchase.swift */,
+				93C2C13329840920007130AC /* Extension.swift */,
 			);
 			path = UIKit;
 			sourceTree = "<group>";
@@ -347,6 +350,7 @@
 				93907DE128C4969F0018C09C /* UIDatePickerExtensions.swift in Sources */,
 				93907DDA28C4969F0018C09C /* UISwitchExtensions.swift in Sources */,
 				93907DC828C4969F0018C09C /* UILabelExtensions.swift in Sources */,
+				93C2C13429840920007130AC /* Extension.swift in Sources */,
 				93907DE428C4969F0018C09C /* UIGestureRecognizerExtensions.swift in Sources */,
 				93907DDF28C4969F0018C09C /* UIBarButtonItemExtensions.swift in Sources */,
 				93907E0628C496C50018C09C /* Font+Extension.swift in Sources */,
